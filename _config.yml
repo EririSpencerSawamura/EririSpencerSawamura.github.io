@@ -6,7 +6,7 @@ email: 11710621@mail.sustech.edu.cn
 description: "Cor quod te credit est tui magica!"
 keyword: "Ren Wang, Math, 王韧, SUSTech, Mathematical Physics"
 url: "http://eririsawamuraspencer.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/about"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/EririSpencerSawamura/EririSpencerSawamura.github.io" # you code repository
 
 # Sidebar settings
