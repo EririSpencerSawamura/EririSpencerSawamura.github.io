@@ -11,7 +11,7 @@ github_repo: "https://github.com/EririSpencerSawamura/EririSpencerSawamura.githu
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "A post-adolescent boy seeking math, sicence, anime and love."
+sidebar-about-description: "A post-adolescent man seeking math, sicence, anime and love."
 sidebar-avatar: /img/profile.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
