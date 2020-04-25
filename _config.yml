@@ -95,7 +95,7 @@ service-worker: true
 
 
 
-# Friends
+# Miscellaneous
 friends: [
     {
         title: "Stavros Garoufalidis",
